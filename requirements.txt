@@ -1,0 +1,17 @@
+# Core data analysis
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and preprocessing
+scikit-learn>=1.4
+
+# Statistical analysis and regression diagnostics
+statsmodels
+
+# Jupyter Notebook environment
+notebook
+ipykernel
